@@ -123,10 +123,10 @@ A digital coin flip application that is:
   
 <img width="205" height="176" alt="image" src="https://github.com/user-attachments/assets/67df01ec-644f-4a86-8d43-adc42f2edc99" />
 
+
 **Screen 2: Coin Flip Screen**
 - Shows current coin image (heads or tails)
 - Displays result text ("HEADS!" or "TAILS!")
 - Provides "Flip Coin" button for repeated use
 - Updates both image and text simultaneously
-
 <img width="208" height="180" alt="image" src="https://github.com/user-attachments/assets/c8e77389-0a9f-4829-b79a-4a16db6b73a3" />
