@@ -129,13 +129,4 @@ A digital coin flip application that is:
 - Provides "Flip Coin" button for repeated use
 - Updates both image and text simultaneously
 
-├──────────────────────────────────────┤
-│ │
-│ ┌───────┐ │
-│ │ │ │
-│ │ 🪙 │ │
-│ │ │ │
-│ └───────┘ │
-│ │
-│ Tap Flip to Start │
-└──────────────────────────────────────┘
+<img width="208" height="180" alt="image" src="https://github.com/user-attachments/assets/c8e77389-0a9f-4829-b79a-4a16db6b73a3" />
